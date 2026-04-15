@@ -2,6 +2,7 @@
 
 Ce projet présente une infrastructure réseau complète simulant un environnement d'entreprise multi-départements. La maquette se concentre sur la haute disponibilité, la segmentation par VLANs et la gestion des services IP (DHCP, VoIP).
 🛠️ Technologies & Protocoles Utilisés
+![Capture d'écran du projet](switching.png)
 
     Commutation (Switching) :
 
